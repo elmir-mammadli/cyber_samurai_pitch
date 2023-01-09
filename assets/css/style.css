@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "HeliosC";
+  src: url("assets/fonts/HeliosC.woff") format("woff"), url("assets/fonts/HeliosC.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "HeliosC";
+  src: url("assets/fonts/HeliosC.woff") format("woff"), url("assets/fonts/HeliosC.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+.top-section {
+  background-color: #BB6BD9;
+}
+
+/*# sourceMappingURL=style.css.map */

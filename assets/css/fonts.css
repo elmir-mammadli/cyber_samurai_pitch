@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "HeliosC";
+  src: url("assets/fonts/HeliosC.woff") format("woff"), url("assets/fonts/HeliosC.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/*# sourceMappingURL=fonts.css.map */

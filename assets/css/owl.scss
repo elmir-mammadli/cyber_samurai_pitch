@@ -1,0 +1,30 @@
+.owl-section, .owl-main {
+  .owl-dots {
+    .owl-dot {
+      span {
+        border: 1px solid white;
+        background: none;
+      }
+      &:hover {
+        span {
+          background: white;
+        }
+      }
+    }
+  }
+}
+
+.owl-section{
+  .owl-stage-outer{
+    overflow: visible;
+  }
+  .item-8 {
+    position: absolute;
+    width: 150%;
+    bottom: -50%;
+    img {
+      position: relative;
+      left: -37%;
+    }
+  }
+}

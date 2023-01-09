@@ -1,0 +1,9 @@
+.owl-theme .owl-dots .owl-dot span {
+  border: 1px solid white;
+  background: none;
+}
+.owl-theme .owl-dots .owl-dot.active span {
+  background: white;!important;
+}
+
+/*# sourceMappingURL=owl.css.map */

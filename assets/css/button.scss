@@ -1,0 +1,16 @@
+@import "variables";
+.btn-navbar-top {
+  font-family: $fontNav;
+  background-color: $contact_btn;
+  border-radius: 20px;
+  padding: 10px 25px;
+    &:hover {
+    background-color: $contact_btn_hover;
+  }
+}
+
+.btn-footer {
+  border-radius: 35px;
+  padding: 15px 30px;
+}
+
